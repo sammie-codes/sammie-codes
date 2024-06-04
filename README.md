@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nomfundo Mbhele</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=F771DB&random=false&width=435&lines=Hi%2C+I+am+Nomfundo+Mbhele+%F0%9F%98%87" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate frontend developer currently in college</h3>
 
 - 🔭 I’m currently working on **Robot worlds**
